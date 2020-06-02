@@ -22,4 +22,4 @@ jobs:
         type: text # optional, default is text
         # message content
         at: all
-        content: "各位小伙伴，下班前请记得关灯~"
+        content: "各位小伙伴，下班前请记得关灯、关空调，谢谢~"
